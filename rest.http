@@ -1,0 +1,11 @@
+### Get all data required by the frontend
+GET http://localhost:8080/professional HTTP/1.1
+
+### Get the static frontend page
+GET http://localhost:8080/ HTTP/1.1
+
+### Get all contacts
+GET http://localhost:8080/contacts HTTP/1.1
+
+### Get a single contact (replace :id with a real _id from the DB)
+GET http://localhost:8080/contacts/000000000000000000000000 HTTP/1.1

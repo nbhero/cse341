@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Bruno",
+    "lastName": "Torres Candido",
+    "email": "bruno.rtorres97@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "1997-03-12"
+  },
+  {
+    "firstName": "Ada",
+    "lastName": "Lovelace",
+    "email": "ada.lovelace@example.com",
+    "favoriteColor": "Green",
+    "birthday": "1815-12-10"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Turing",
+    "email": "alan.turing@example.com",
+    "favoriteColor": "Red",
+    "birthday": "1912-06-23"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Hopper",
+    "email": "grace.hopper@example.com",
+    "favoriteColor": "Purple",
+    "birthday": "1906-12-09"
+  }
+]
